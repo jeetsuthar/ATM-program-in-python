@@ -1,0 +1,4 @@
+{'Name': 'jitendra', 'Account-Number': 7530753090, 'PIN': '8520', 'Amount': '11480'}
+{'Name': 'manas', 'Account-Number': 7410741032, 'PIN': 8541, 'Amount': 8541}
+{'Name': 'jatin', 'Account-Number': 8520852070, 'PIN': 1234, 'Amount': 20000000}
+{'Name': 'Anant', 'Account-Number': 9630963080, 'PIN': 7410, 'Amount': '8498'}
